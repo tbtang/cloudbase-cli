@@ -35,7 +35,7 @@
         "@cloudbase/framework-core": "^1.9.7",
         "@cloudbase/functions-framework": "^1.5.0",
         "@cloudbase/iac-core": "^0.0.3-alpha.9",
-        "@cloudbase/lowcode-cli": "^0.22.2",
+        "@cloudbase/lowcode-cli": "^0.23.0",
         "@cloudbase/manager-node": "4.2.8",
         "@cloudbase/toolbox": "^0.7.5",
         "address": "^1.1.2",
@@ -94,3 +94,4 @@
     },
     "packageManager": "yarn@3.6.2+sha512.2c2f8b9615e6659773f65cdec7cf92ef773a98a99e611579601f61c7a91ec94c89c929aac86f1cee819421a9b0db7acfd53ec3ebb95af44f77f77634b08b9557"
 }
+
